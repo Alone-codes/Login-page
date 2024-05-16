@@ -1,4 +1,4 @@
-Certainly! Below is a sample README.md file outlining a login and signup page project in 10 concise points:
+ Certainly! Below is a sample README.md file outlining a login and signup page project in 10 concise points:
 
 ---
 
@@ -15,7 +15,7 @@ Follow these steps to set up and run the project locally on your machine.
 Clone this repository to your local machine using the following command:
 
 ```
-git clone https://github.com/your-username/login-signup-page.git
+git clone https://github.com/Alone-codes/login-page.git
 ```
 
 ### 2. Navigate to the Project Directory
